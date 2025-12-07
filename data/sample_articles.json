@@ -1,0 +1,27 @@
+[
+  {
+    "id": "doc1",
+    "title": "Global markets rally as economic optimism returns",
+    "text": "Global markets saw a rally today as investors reacted to positive economic data and easing inflation concerns."
+  },
+  {
+    "id": "doc2",
+    "title": "Local elections bring surprises in turnout",
+    "text": "In local elections this week voter turnout surprised analysts, with several unexpected wins for independent candidates."
+  },
+  {
+    "id": "doc3",
+    "title": "New AI model improves medical image analysis",
+    "text": "Researchers published a new AI model that significantly improves accuracy in medical image diagnosis, promising faster results."
+  },
+  {
+    "id": "doc4",
+    "title": "Sports: city marathon breaks records",
+    "text": "The annual city marathon broke participation records and showcased elite performances in multiple categories."
+  },
+  {
+    "id": "doc5",
+    "title": "Climate summit agrees on emissions roadmap",
+    "text": "World leaders at the climate summit reached a consensus on a roadmap to reduce emissions over the next decade."
+  }
+]
