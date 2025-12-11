@@ -39,5 +39,3 @@
 ## Notes for submission
 - This is a minimal working demo as required by the project deliverables. It demonstrates preprocessing (stop-word removal via TfidfVectorizer), index construction, Boolean and Ranked retrieval, and a UI.
 - For a larger dataset (BBC/Kaggle), replace `data/sample_articles.json` with your dataset and run `src/indexer.py`.
-
-Good luck with submission!
